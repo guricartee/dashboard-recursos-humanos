@@ -1,2 +1,62 @@
-# dashboard-rh
-Dashboard de Insights de RH desenvolvido em Python utilizando Pandas, Matplotlib e Streamlit para análise de dados de funcionários. O sistema apresenta métricas como média salarial, distribuição etária, folha de pagamento e gráficos interativos, integrando frontend em Streamlit com backend em FastAPI/Node.js hospedado no Replit.
+# 📊 Dashboard de Insights de RH
+
+Este projeto foi desenvolvido para demonstrar a criação de um sistema de análise de dados utilizando Python, Streamlit, Pandas e Matplotlib, integrado a uma API Backend customizada.  
+
+O dashboard apresenta indicadores importantes de Recursos Humanos (RH), permitindo a visualização de métricas estratégicas de funcionários por meio de gráficos e tabelas interativas.
+
+---
+
+## 🚀 Funcionalidades
+
+- 📈 Visualização de métricas de RH
+- 👥 Quantidade total de funcionários
+- 💰 Média salarial
+- 📊 Folha de pagamento total
+- 🎂 Média de idade
+- 📉 Gráficos de salário e idade
+- 📋 Tabela detalhada dos funcionários
+- 🔗 Integração com API Backend
+- 🌐 Sistema publicado online com domínio ativo
+
+---
+
+## 🖼️ Preview do Sistema
+
+## Dashboard Principal
+
+![Dashboard](imagens/dashboard.png)
+
+## Gráficos Analíticos
+
+![Gráficos](imagens/graficos.png)
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+### Frontend
+- Python
+- Streamlit
+- Pandas
+- Matplotlib
+
+### Backend
+- FastAPI
+- Node.js
+
+### Infraestrutura
+- Replit
+
+---
+
+## 📂 Estrutura do Projeto
+
+```bash
+📦 dashboard-rh
+ ┣ 📂 imagens
+ ┃ ┣ 📜 dashboard.png
+ ┃ ┗ 📜 graficos.png
+ ┣ 📜 app.py
+ ┣ 📜 requirements.txt
+ ┣ 📜 README.md
+ ┗ 📜 backend.py

@@ -24,11 +24,11 @@ O dashboard apresenta indicadores importantes de Recursos Humanos (RH), permitin
 
 ## Dashboard Principal
 
-![Dashboard](imagens/dashboard-analitico.png)
+![Dashboard](dashboard-analitico.png)
 
 ## Gráficos Analíticos
 
-![Gráficos](imagens/dashboard-metricas.png)
+![Gráficos](dashboard-metricas.png)
 
 ---
 

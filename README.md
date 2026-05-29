@@ -20,7 +20,7 @@ O dashboard apresenta indicadores importantes de Recursos Humanos (RH), permitin
 
 ---
 
-## 🖼️ Preview do Sistema
+## 📷 Preview do Sistema
 
 ## Dashboard Principal
 

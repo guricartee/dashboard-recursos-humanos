@@ -52,7 +52,7 @@ O dashboard apresenta indicadores importantes de Recursos Humanos (RH), permitin
 ## 📂 Estrutura do Projeto
 
 ```bash
-📦 dashboard-rh
+📦 dashboard-recursos-humanos
  ┣ 📂 imagens
  ┃ ┣ 📜 dashboard-analitico.png
  ┃ ┗ 📜 dashboard-metricas.png

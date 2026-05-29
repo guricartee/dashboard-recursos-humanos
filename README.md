@@ -54,9 +54,8 @@ O dashboard apresenta indicadores importantes de Recursos Humanos (RH), permitin
 ```bash
 📦 dashboard-rh
  ┣ 📂 imagens
- ┃ ┣ 📜 dashboard.png
- ┃ ┗ 📜 graficos.png
- ┣ 📜 app.py
- ┣ 📜 requirements.txt
+ ┃ ┣ 📜 dashboard-analitico.png
+ ┃ ┗ 📜 dashboard-metricas.png
+ ┣ 📜 DataFrame.ipynb
  ┣ 📜 README.md
  ┗ 📜 backend.py
